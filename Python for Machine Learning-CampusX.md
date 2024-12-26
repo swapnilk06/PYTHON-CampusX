@@ -69,7 +69,47 @@ Bool -
 print(True) // True
 
 
+Python is a case sensitive language (Uppercase & Lowercase for python are not similar)
+E.g.
+	print(False) // False
+	print(false) // NameError: name 'false' is not defined
+	
 
+Complex number -
+print(5+6j)
+	   
+
+NOTE : Python is the "only programming lamguage that Natively support of comlex number".
+ - Data types : int, float, string, bool, complex
+
+
+User Input -
+
+E.g. Daily life S/W's using user input -
+     - Whatsapp :- give msg as a input.
+     - Youtube :- search, comments... are inputs from users.
+	 - Phone lock, Face look :- required user inputs.
+
+
+E.g. Daily S/W's that not required User input -
+     - Clock
+	 - Calender
+	 
+Static Vs Dynamic - 
+NOTE : desktop app. Website are only 2 types -
+       - Static :- S/W's that not required user input.
+	   E.g. - Clock
+	   - Dynamic :- S/W's that gives user inputs
+	   E.g. - Youtube, Instagram, Whatsapp...
+	   
+
+print("Haldia")
+
+- above is program or not ?
+- It's proper program definated output print on screen.
+- Question: It's static or Dynamic? - Are you getting Confuse between a programer & User?
+  - Static S/W is that S/W they gives by programmer (not by User)
+  - User can only view output. User can't interact or make changes.i.e.Static S/W.
 
 
 
