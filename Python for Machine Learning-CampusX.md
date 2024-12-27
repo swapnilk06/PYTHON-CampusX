@@ -1,7 +1,8 @@
 
 (24-12-24)
+
 ---------------------------
-Part 1 :
+### Part 1 :
 ---------------------------
 
 
@@ -35,10 +36,11 @@ E.g.  print(1,2,3,4,5,6) // 1 2 3 4 5 6
 	  print() // "printing Blank"
 	  -  Minimum limit have 1 input
 	  
+<br>
  
 (25-12-24)
 
-Data Types - 
+#### Data Types - 
 
 E.g. Whatsapp data - Chat & Messages
      Zomato data - Restro details, order details, menu
@@ -52,30 +54,28 @@ NOTE : - Different platforms have different types of data.
 	   
 Data types - are these data types of language can be handle.
 
-int - We (human) speak Numbers.
+- int : We (human) speak Numbers.<.br>
 print(2) // 2
 
-float - We speak Decimal.
+- float : We speak Decimal.</br>
 print(2.4) // 2.4
 
-string - We speak text.
+- string : We speak text;/
 print("Haldia") // Haldia
 
+> *NOTE : Python can <b>inheriently support String.</b> JS & C are not support string.
 
-NOTE : Python can inheriently support String. JS & C are not support string.
-
-
-Bool -
+- Bool : </br>
 print(True) // True
 
-
+```
 Python is a case sensitive language (Uppercase & Lowercase for python are not similar)
 E.g.
 	print(False) // False
 	print(false) // NameError: name 'false' is not defined
-	
+```	
 
-Complex number -
+- Complex number :
 print(5+6j)
 	   
 
