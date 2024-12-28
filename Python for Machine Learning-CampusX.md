@@ -99,10 +99,11 @@ E.g. - Daily life S/W's using <b>user input</b> <br>
 <br>
 
 E.g. - S/W's that <b>not used</b> user input.
-- clock, calender...etc.
+ - clock, calender... etc.
 
+<br>
 
-16 min
+18 min
 
 
 
