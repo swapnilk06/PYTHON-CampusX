@@ -56,52 +56,59 @@ print() # printing Blank as output
 > * NOTE :
 >   - Different platforms have different types of data. <br>
 >   - E.g. Youtube main data is videos, Instagram main data is photos, Whatsapp main data is text. <br>
->    - Different different data called as "Data Types"
-	   
-</b>Data types</b> : are these data types of language can be handle.
+>   - Different different data called as "Data Types"
+<br>
 
-- int : We (human) speak Numbers.<.br>
-print(2) // 2
+</b>Data types</b> :
+```python
+# int : We (human) speak its Numbers
+print(2) # 2
 
-- float : We speak Decimal.</br>
-print(2.4) // 2.4
+# float : We speak its as Decimal
+print(2.4) # 2.4
 
-- string : We speak text;/
-print("Haldia") // Haldia
-
-> *NOTE : Python can <b>inheriently support String.</b> JS & C are not support string.
-
-- Bool : </br>
-print(True) // True
-
+# string : We speak its as Text
+print("Haldia") # Haldia
 ```
-Python is a case sensitive language (Uppercase & Lowercase for python are not similar)
-E.g.
-	print(False) // False
-	print(false) // NameError: name 'false' is not defined
-```	
+> * NOTE : Python can <b>inheriently support string</b>, but C can't support string.
+```python
+# bool : boolean 1 and 0
+print(True) # True
+print(False) # False
+print(false) # NameError: name 'false' is not defined
+```
+Thats boolean example shows python is a `case sensitive language` (Uppercase & Lowercase for python are not similar)
+```python
+# Complex number : 
+print(5+6j) # (5+6j)
+```
+> * NOTE :
+>   - Python is the only programming language that `"Natively support of complex numbers."`
+>   - We can build S/W based upon complex number we choosen `Python language` only.
 
-- Complex number :
-print(5+6j)
-	   
+#### Data types : int, float, string, bool, complex
+<br>
 
-> *NOTE : Python is the "only programming lamguage that Natively support of comlex number".
-- Data types : int, float, string, bool, complex
+### User Input -
+
+E.g. - Daily life S/W's using <b>user input</b> <br>
+ - Whatsapp : give msg as a input.<br>
+ - Youtube : search, comments... are inputs from users.<br>
+ - Ola : destination.br
+ - Phone lock, Face look -> required user inputs.
+<br>
+
+E.g. - S/W's that <b>not used</b> user input.
+- clock, calender...etc.
 
 
-User Input -
-
-E.g. Daily life S/W's using user input -
-     - Whatsapp :- give msg as a input.
-     - Youtube :- search, comments... are inputs from users.
-	 - Phone lock, Face look :- required user inputs.
+16 min
 
 
-E.g. Daily S/W's that not required User input -
-     - Clock
-     - Calender
-	 
-Static Vs Dynamic - 
+
+
+  
+### Static Vs Dynamic - 
 >NOTE : All overs desktop apps. website are have only 2 types - <b>Static</b> and <b>Dyanamic</b>
 
 - Static :- S/W's that not required user input.
