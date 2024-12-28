@@ -8,23 +8,19 @@
 
 #### Q. What is programming? <br>
 => Human talk with Machine, that required language for talking called <b>Programming</b> or <b>Programming language.</b>
-
 <br>
 
 ### print() -
 
-- print() - "()" is indicates function of all programming language.
-
-<br>
+- print() - "()" is indicates function of all programming language.<br>
 
 #### Q. What is Function?
 => 
 - You can give as a input, its return output based upon a logic called <b> Function.</b>
   - E.g. Function concept is similar for S/W as well as H/W. fan, projector... etc.
-- Simple, `<b> Function means gives Input & retured Output without knowing internal main logic.<b>`
+- Simple, <b>`Function means gives Input & retured Output without knowing internal main logic.`</b>
 - for print() you don't required how print work internally <i>(means its function)</i>.
-- print() is readymade, you can directly used it, without knowing logic for easy working.
-
+- print() is readymade, you can directly used it, without knowing internal logic, for programmer easy working.
 <br>
 
 E.g.  
@@ -49,17 +45,20 @@ print() # printing Blank as output
 
 ### Data Types - 
 
-E.g. Whatsapp data - Chat & Messages
-     Zomato data - Restro details, order details, menu
-	 Ola data - Pickup point, destination, fare, driver details
-	 Instagram data - Photos, profile info, status
-	 Youtube data - Videos, search terms, comments
-	 
-NOTE : - Different platforms have different types of data. 
-       - E.g. Youtube main data is videos, Instagram main data is photos, Whatsapp main data is text.
-	   - Different different data called as "Data Types".
+<b>Data</b> :
+   - Whatsapp data - Chat & Messages
+   - Zomato data - Restro details, order details, menu
+   - Ola data - Pickup point, destination, fare, driver details
+   - Instagram data - Photos, profile info, status
+   - Youtube data - Videos, search terms, comments
+<br>
+
+> * NOTE :
+>   - Different platforms have different types of data. <br>
+>   - E.g. Youtube main data is videos, Instagram main data is photos, Whatsapp main data is text. <br>
+>    - Different different data called as "Data Types"
 	   
-Data types - are these data types of language can be handle.
+</b>Data types</b> : are these data types of language can be handle.
 
 - int : We (human) speak Numbers.<.br>
 print(2) // 2
