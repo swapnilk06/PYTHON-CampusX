@@ -91,44 +91,71 @@ print(5+6j) # (5+6j)
 
 ### User Input -
 
-E.g. - Daily life S/W's using <b>user input</b> <br>
- - Whatsapp : give msg as a input.<br>
- - Youtube : search, comments... are inputs from users.<br>
- - Ola : destination.br
+E.g. - Daily life S/W's using <b>user input</b>
+ - Whatsapp : give msg as a input.
+ - Youtube : search, comments... are inputs from users.
+ - Ola : destination
  - Phone lock, Face look -> required user inputs.
 <br>
 
-E.g. - S/W's that <b>not used</b> user input.
+E.g. - S/W's that <b>not required</b> user input.
  - clock, calender... etc.
-
 <br>
-
-18 min
-
 
 
 
   
 ### Static Vs Dynamic - 
->NOTE : All overs desktop apps. website are have only 2 types - <b>Static</b> and <b>Dyanamic</b>
+>NOTE : All overs desktop apps. website are have only 2 types (S/W's) -
+><b>Static</b> and
+><b>Dyanamic</b>
 
 - Static :- S/W's that not required user input.
-  E.g. - Clock
-- Dynamic :- S/W's that gives user inputs
-  E.g. - Youtube, Instagram, Whatsapp...
-	   
+   - E.g. - Clock, Calendar...
+- Dynamic :- S/W's that required user inputs.
+   - E.g. - Youtube, Instagram, Whatsapp...
 <br>
+
+
+#### Program or user and Static or Dynamic?  
 ```python 
 print("Haldia")
 ```
-Q. Above <i>"print("Haldia")"</i> is "<b>program</b>" or not ?
-- It's proper program definated output print on screen.
-- Question: It's static or Dynamic? - Are you getting Confuse between a programer & User?
-  - Static S/W is that S/W they gives by programmer (not by User)
-  - User can only view output. User can't interact or make changes.i.e.Static S/W.
+
+Q. Above <i>"print("Haldia")"</i> is "<b>program</b>" or not ?<br>
+  - It's proper program bez, it have definated output is print on screen.
+
+Q. Question is <i>"print("Haldia")"</i> is static or Dynamic? Are you getting Confuse between a programer & User?<br>
+  - Static S/W is that S/W they gives by programmer (not by User).
+  - User can only view output. User can't interact or make changes. i.e.Static S/W.
+  - E.g. News website read without any login is static example.
+<br>
 
 
-###### Date : 28-12-24
+###### Date : 30-12-24
+
+
+### input() -
+
+```python
+input()
+# >>> Pappu # this enter by the user
+# >>> 'Pappu' #  this output printed on screen
+```
+
+```python
+# user friendly code
+input("Enter your name")
+# >>> Enter your namekeju
+# >>> 'Keju'
+```
+
+
+
+
+
+
+
 
 
 
