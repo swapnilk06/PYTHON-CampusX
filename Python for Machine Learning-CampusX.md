@@ -151,9 +151,8 @@ input("Enter your name")
 ```
 <br>
 
-```python
 
-29 min
+30 min
 
 
 
