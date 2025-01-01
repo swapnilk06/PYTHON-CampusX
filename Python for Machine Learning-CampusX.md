@@ -152,11 +152,12 @@ input("Enter your name")
 <br>
 
 
-30 min
+###### Date : 01-01-25
 
+> * NOTE :
+>   Harddisk is a read only memory (You can only read memory, can't write in the memory)
 
-
-
+#### 
 
 
 
