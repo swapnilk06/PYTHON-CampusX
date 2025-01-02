@@ -181,6 +181,25 @@ input("Enter your name")
 - Example of RAM & ROM in classroom - student introduce from front of all its like RAM & all students are hear all of what they can say, but student can on seating site introduce they can't hear all i.e. ROM. 
 <br>
 
+> * NOTE :
+>   Code execute from Top to Bottom for every programming.
+>   "RAM" is volatile bcz, its can hold stored data that time whenever we do not close app or machine do not closed.
+>   - DATABASE : In RAM more values are generated - at time programmer decision is user can also ask that values, them they can move values from RAM to DATABASE(database aslo stored in ROM).
+>   - Example of Database - Calculator history(stroing past calculation) is decision of programmer we show past values or not?
+
+
+<br>
+
+### Variable -
+- Varaible is a nothing but a container - that in storing user inputs for future use.
+- In python we never declare variables, we can directly use them.
+
+
+
+
+44 min
+
+
 
 
 
