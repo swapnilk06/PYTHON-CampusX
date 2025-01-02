@@ -152,12 +152,39 @@ input("Enter your name")
 <br>
 
 
-###### Date : 01-01-25
+###### Date : 02-01-25
 
 > * NOTE :
->   Harddisk is a read only memory (You can only read memory, can't write in the memory)
+>   Harddisk is a read only memory (You can only read memory, we can't write on that memory)
 
-#### 
+
+#### Example of File save or movie save
+- File or move save on harddisk(ROM - Read Only Memory).
+- Movie is ROM - bcz, you can't change movie is example of ROM.
+- Movie is storing time its not running that time.
+- Storing movie while playing or <b>running its store ROM to RAM.</b>
+- Example of ROM to RAM is APP on mobile backsite to running.
+- All in run time code are store in RAM.
+<br>
+#### We use "ROM" as position of RAM.
+- ROM & RAM are same(memories) are work as storing.
+- We also use <b>ROM as storage.</b>
+- 1 Problem would be slow speed.
+   - Example, While playing NFS runing very slowly.
+- Slow playing Bcz,<b> RAM is fast in comparsion to ROM.</b>
+<br>
+#### Why "RAM" is fast compare with ROM?
+- RAM made up of high quality silicon & ROM made up of low quality Germanium.
+- Material difference.
+- Example of RAM & ROM in classroom - student introduce from front of all its like RAM & all students are hear all of what they can say, but student can on seating site introduce they can't hear all i.e. ROM. 
+
+<br>
+
+
+
+
+
+
 
 
 
