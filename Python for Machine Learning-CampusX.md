@@ -166,18 +166,19 @@ input("Enter your name")
 - Example of ROM to RAM is APP on mobile backsite to running.
 - All in run time code are store in RAM.
 <br>
-#### We use "ROM" as position of RAM.
+
+#### We use "ROM" as position of RAM
 - ROM & RAM are same(memories) are work as storing.
 - We also use <b>ROM as storage.</b>
 - 1 Problem would be slow speed.
-   - Example, While playing NFS runing very slowly.
+  - Example, While playing NFS runing very slowly.
 - Slow playing Bcz,<b> RAM is fast in comparsion to ROM.</b>
 <br>
+
 #### Why "RAM" is fast compare with ROM?
 - RAM made up of high quality silicon & ROM made up of low quality Germanium.
 - Material difference.
 - Example of RAM & ROM in classroom - student introduce from front of all its like RAM & all students are hear all of what they can say, but student can on seating site introduce they can't hear all i.e. ROM. 
-
 <br>
 
 
