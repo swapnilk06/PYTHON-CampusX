@@ -182,10 +182,10 @@ input("Enter your name")
 <br>
 
 > * NOTE :
->   Code execute from Top to Bottom for every programming.
->   "RAM" is volatile bcz, its can hold stored data that time whenever we do not close app or machine do not closed.
->   - DATABASE : In RAM more values are generated - at time programmer decision is user can also ask that values, them they can move values from RAM to DATABASE(database aslo stored in ROM).
->   - Example of Database - Calculator history(stroing past calculation) is decision of programmer we show past values or not?
+  - Code execute from Top to Bottom for every programming.
+  - "RAM" is volatile bcz, its can hold stored data that time whenever we do not close app or machine do not closed.
+ - DATABASE : In RAM more values are generated - at time programmer decision is user can also ask that values, them they can move values from RAM to DATABASE(database aslo stored in ROM).
+  - Example of Database - Calculator history(stroing past calculation) is decision of programmer we show past values or not?
 
 
 <br>
@@ -194,10 +194,35 @@ input("Enter your name")
 - Varaible is a nothing but a container - that in storing user inputs for future use.
 - In python we never declare variables, we can directly use them.
 
+<br>
+
+> * NOTE : - In python, input() default format is "string" format.
+
+> --
+> Interview Question -
+- Q. Why its keeped as "string"? why not default format in integer, complex, boolean, decimal...?
+> --
+
+<br>
+
+#### Reason behind in python input() as in "string" format 
+1) Integer can easily written in String, but string can't written in integer.
+   - 4(integer) written in '4'(string), but 'Pune'(string) is <b>not written in integer.</b> its varsatile.
+2) Current world mostly user input format in "string".
 
 
+<br>
 
-44 min
+### Data type -
+```python
+type(4) # <class 'int'>
+type(4.5) # <class 'float'>
+type(True) # <class 'bool'>
+```
+
+
+52 min
+
 
 
 
