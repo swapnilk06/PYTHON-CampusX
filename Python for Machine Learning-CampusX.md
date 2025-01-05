@@ -200,7 +200,7 @@ input("Enter your name")
 
 > --
 > Interview Question -
-- Q. Why its keeped as "string"? why not default format in integer, complex, boolean, decimal...?
+> - Q. Why its keeped as "string"? why not default format in integer, complex, boolean, decimal...?
 > --
 
 <br>
@@ -218,10 +218,26 @@ input("Enter your name")
 type(4) # <class 'int'>
 type(4.5) # <class 'float'>
 type(True) # <class 'bool'>
+type(fnum) # <class 'str'>
+```
+
+### Type Conversion - 
+
+E.g. - without type conversion ERROR
+```python
+int("Pune") # Invalid Literal for int()
+'``
+<br>
+```python
+int(4.5) # 4
+int("4") # 4
+
+5(int("4")) #<class 'int'>
+
 ```
 
 
-52 min
+
 
 
 
