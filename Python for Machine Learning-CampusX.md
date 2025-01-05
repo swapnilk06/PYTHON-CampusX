@@ -226,15 +226,25 @@ type(fnum) # <class 'str'>
 E.g. - without type conversion ERROR
 ```python
 int("Pune") # Invalid Literal for int()
-'``
+```
 <br>
+
 ```python
 int(4.5) # 4
 int("4") # 4
-
-5(int("4")) #<class 'int'>
-
+type(int("4")) # <class 'int'>
+int(fnnum) # 90
+int(4+5j) # Error Can't convert complex to int
+float(4) # 4.0
+str(4) # '4'
+complex(4) #(4+5j)
 ```
+
+#### Why "complex" can't convert into "int"
+- Loose information during conversion of complex to int.
+- You can directly cut 1 dimesion of complex to int conversion.
+
+
 
 
 
