@@ -6,6 +6,6 @@ CampusX Youtube 9 videos playlist
 
 `[6-1-25]`
 
-### 1] Part-1
-### 2] Part-2
+### 1] Python for Machine Learning Part-1
+### 2] Python for Machine Learning Part-2
 
