@@ -17,6 +17,8 @@ print(1,2,3, sep='Jai mata di') # 1 Jai mata di2Jai mata di3
 print(1, end="Jai shree ram") # 1 Jai shree ram
 ```
 
+<br>
+
 ### Variable Binding -
 
 - Values stored in variable that process called as `Variable Binding.`
@@ -41,6 +43,35 @@ a=b=c=5
 c    # 5 
 ```
 
+<br>
 
+### Type Conversion -
+
+- Type Conversion have 2 types -
+  - Implicit Type Conversion
+    - Python interpreter witohut programmer help directly solve 'int' + 'float' value output as 'float' value without showing error.
+  - Explicit Type Conversion
+    - As programmer or our responsibilty to told interpreter that time we required type conversion. 
+
+```python
+# Implicit Type Conversion
+5+4.5    # 9.5
+```
+
+<br>
+
+### Comment - 
+
+- `#` this is comment
+- Comnment means, is line of code that <b>ignore</b> by interpreter or compiler.
+
+> NOTE* - Comments `#` make best whats about in current program or project. It's best practice to showing info about what in that part.
+
+
+<br>
+
+### Keywords -
+
+10 min 
 
 
