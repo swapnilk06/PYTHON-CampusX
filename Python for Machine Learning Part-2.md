@@ -24,5 +24,9 @@ print(1, end="Jai shree ram") # 1 Jai shree ram
 ```python
 fnum = 100
 fnum     # 100
-fum      # 100 -> always print fnum value as 100 i.e. variable binding example
-``` 
+fum      # 100 -> always printing fnum as value is 100 i.e. variable binding example
+```
+
+- Variable binding have 2 types -
+  - Single assessment (a=5)
+  - Multiple assessment(a=b=c=5)
