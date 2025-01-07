@@ -1,8 +1,7 @@
-###### Date : 6-1-25
+### `6-1-25`
 
----------------------------
-### Part 2 :
----------------------------
+
+## Python for machine learning Part 2 -
 
 
 ### Examples of print()
