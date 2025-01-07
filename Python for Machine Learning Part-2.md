@@ -12,6 +12,10 @@ print(1,2,3,4) # 1 2 3 4
 
 print(1,2,3, sep='/') # 1/2/3
 
-print(1,2,3, sep='Jai mata di') #1 Jai mata di2Jai mata di3
+print(1,2,3, sep='Jai mata di') # 1 Jai mata di2Jai mata di3
 
+print(1, end="Jai shree ram") # 1 Jai shree ram
 ```
+
+### Variable Binding -
+
