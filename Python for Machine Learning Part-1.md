@@ -1,9 +1,9 @@
 
-###### Date : 24-12-24
+`24-12-24`
 
----------------------------
-### Part 1 :
----------------------------
+
+## Python for Machine Learning Part 1 -
+
 
 
 #### Q. What is programming? <br>
