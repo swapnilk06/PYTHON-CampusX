@@ -19,3 +19,10 @@ print(1, end="Jai shree ram") # 1 Jai shree ram
 
 ### Variable Binding -
 
+- Values stored in variable that process called as `Variable Binding.`
+
+```python
+fnum = 100
+fnum     # 100
+fum      # 100 -> always print fnum value as 100 i.e. variable binding example
+``` 
