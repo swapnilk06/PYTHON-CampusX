@@ -71,6 +71,14 @@ c    # 5
 
 ### Keywords -
 
-10 min 
+- Compiler or Interpreter that convert english high level code to machine level code.
+- Compiler is piece of software written by other some experience programmer, that convert high level code to low level code.
+- In binary `0's & 1's` combination we can't build big application.
+- To solving this issue programer develop `Assembly language` like 2+3 => `0010ADD011`.
 
 
+> NOTE* - Machine language --> Assembly language --> High level language
+> - Assembly language : 2+3 => `0010ADD011`
+> - High level language : C, Fortran , basic)
+
+15 min
