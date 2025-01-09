@@ -115,11 +115,11 @@ c    # 5
 > NOTE* -
 >
   ```
- High level language               `3rd introduced` - Basic, C, Fortran
+ High level language                 `3rd introduced` - Basic, C, Fortran
          ^
- Assembly language                 `2nd introduced`
+ Assembly language                   `2nd introduced`
          ^
-Machine language(Binary language)  `1st introduced` 
+Machine language(Binary language)    `1st introduced` 
 ```
 
 ### Identifiers -
