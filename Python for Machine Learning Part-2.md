@@ -119,7 +119,7 @@ c    # 5
          ^
  Assembly language                   `2nd introduced`
          ^
-Machine language(Binary language)    `1st introduced` 
+Machine language(Binary language)   `1st introduced` 
 ```
 
 ### Identifiers -
