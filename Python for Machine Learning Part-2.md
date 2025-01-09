@@ -71,14 +71,40 @@ c    # 5
 
 ### Keywords -
 
+#### Keywords through backstory -
+  - In python coding all words like <b>"print, input, type, int, complex"</b> are english(universal language then it written in english) type of word.
+  - But our machine that on our code is running or executing that have `Processor` called "CPU"(i5, snapdrogon).
+  - Processor are issentially `IC's` as "Integrated Circuits" that have problem is only can understand `1's` or `0's` becz, are `digital in nature`.
+  - They can understand `0 volt(0's)` or `5 volt(1's)` they <i>can't understand 2.5 volt, 3 volt</i>.
+  - Our english written code humans are understand easily, but english wriiten code can't understand processor.
+
+-----
+
+
 - Compiler or Interpreter that convert english high level code to machine level code.
 - Compiler is piece of software written by other some experience programmer, that convert high level code to low level code.
-- In binary `0's & 1's` combination we can't build big application.
-- To solving this issue programer develop `Assembly language` like 2+3 => `0010ADD011`.
+
+- 
+- In binary `0's & 1's` combination as a assembly language.
+- As begining to solving this issue (of whole things in binary are not possible) programer developed `Assembly language` to solve `'2' as 0010`, pattern for `'+' assume 10101`, `'3' as 0110`(all   with like 2+3 => `0010ADD011`.
 
 
-> NOTE* - Machine language --> Assembly language --> High level language
+> NOTE* -
+> `Machine language(Binary language)` --> `Assembly language` --> `High level language`
+  ```
+ High level language              `3rd introduced`
+         ^
+         |
+ Assembly language                `2nd introduced`
+         ^
+         |
+Machine language(Binary language) `1st introduced` 
+```
+
 > - Assembly language : 2+3 => `0010ADD011`
-> - High level language : C, Fortran , basic)
+>   - In assembly language we don't build "facebook".
+>   - Using this assembly language 
+> - High level language : C, Fortran , basic
 
-15 min
+`9-1-25`
+
