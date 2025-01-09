@@ -102,7 +102,7 @@ c    # 5
     - 2+3 => `0010ADD011`
   - Assembly language also realise not work done.
 
-  - #### 2] High-Level Language -
+  - #### 3] High-Level Language -
   - Basic, C, FORTRAN `high-level` programming languages(procedural languages).
   - Internally all languages confusion without keywords -
     - Imaging as programer we store `0010ADD011` in variable `ADD` then it confuse `ADDADD011`.
@@ -115,7 +115,7 @@ c    # 5
 > NOTE* -
 >
   ```
- High level language                 `3rd introduced` - Basic, C, Fortran
+ High level language                 `3rd introduced` - Basic, C, FORTRAN
          ^
  Assembly language                   `2nd introduced`
          ^
