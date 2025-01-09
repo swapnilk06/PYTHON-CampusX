@@ -69,6 +69,8 @@ c    # 5
 
 <br>
 
+`9-1-25`
+
 ### Keywords -
 
 #### Keywords through backstory -
@@ -81,35 +83,47 @@ c    # 5
   - Thats of conversion(english high level code to machine level code) work done by `Compiler` or `Interpreter`.
 
 #### Compiler or Interpreter -
-  - Compiler or Interpreter that convert english high level code to `machine level code`.
-  - Compiler is `piece of software written by some other experience programmer`, that conversion particular high level code to low level code.
+- Compiler or Interpreter that convert english high level code to `machine level code`.
+- Compiler is `piece of software written by some other experience programmer`, that conversion particular high level code to low level code.
 
-#### Working before invesion of compiler -
+#### Before invesion of compiler code wriiten -
+  - #### 1] Machine Language -
+  - Before all high level Programming we code in only `0's & 1's`.
+  - Example of Binary Code -
+    - 2+3 `'2' as 0010`, `'+' assume pattern 10101`, `'3' as 0110` & output of 5 in also in binary as `0010101010110`.
+  - Programmer written all over code in binary format as well as output.
+  - Code written in Binary language is `very difficult`.
+  - Facebook type big application can't build in binary language.
+  - That time programer realise in this type of language(binary language) not a possible to build application.
 
+  - #### 2] Assembly Language -
+  - We need to in programming `Remember somethings`. thats way 1st programmer replace by some keywords like `ADD`, `CUB`, `CUT`, `PASTE`...
+  - Example of Assembly Code -
+    - 2+3 => `0010ADD011`
+  - Assembly language also realise not work done.
 
-
-
-
-- In binary `0's & 1's` combination as a assembly language.
-- As begining to solving this issue (of whole things in binary are not possible) programer developed `Assembly language` to solve `'2' as 0010`, pattern for `'+' assume 10101`, `'3' as 0110`(all   with like 2+3 => `0010ADD011`.
+  - #### 2] High-Level Language -
+  - Basic, C, FORTRAN `high-level` programming languages(procedural languages).
+  - Internally all languages confusion without keywords -
+    - Imaging as programer we store `0010ADD011` in variable `ADD` then it confuse `ADDADD011`.
+  - This reasons other languages & python reserve keywords used.
+  
+- In python 32 keywords are reserved. they are not used as a variable name.
+- `Keywords` : are those reserved words by the compiler or the language that are not use by programmer as variable names, as function names, class name.
 
 
 > NOTE* -
-> `Machine language(Binary language)` --> `Assembly language` --> `High level language`
+>
   ```
- High level language              `3rd introduced`
+ High level language               `3rd introduced` - Basic, C, Fortran
          ^
-         |
- Assembly language                `2nd introduced`
+ Assembly language                 `2nd introduced`
          ^
-         |
-Machine language(Binary language) `1st introduced` 
+Machine language(Binary language)  `1st introduced` 
 ```
 
-> - Assembly language : 2+3 => `0010ADD011`
->   - In assembly language we don't build "facebook".
->   - Using this assembly language 
-> - High level language : C, Fortran , basic
+### Identifiers -
 
-`9-1-25`
+
+
 
