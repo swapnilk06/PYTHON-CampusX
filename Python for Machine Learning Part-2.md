@@ -124,6 +124,20 @@ Machine language(Binary language)   `1st introduced`
 
 ### Identifiers -
 
+#### In python identifiers makes from 3 things ours - `variable names`, `function names`, `class names`
+- Any name as a programmer we create that means it's `Identifiers`.
 
+#### Rules for Identifiers -
+- 1] Can be combo of `lowercase`, `uppercase`, `digits` and `_`.
+- 2] Can't start with a digit.
+  - e.g. 1variable # <i>not allowed </i>
+- 3] Keywords != identifiers
+- 4] Can't use sepcial characters inside our identifiers.  
+- 5] Can have any length(no restriction on it naming length).
 
+<br>
 
+### Indentation -
+
+ 
+20 min
