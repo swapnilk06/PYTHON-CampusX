@@ -139,7 +139,44 @@ Machine language(Binary language)   `1st introduced`
 `18-1-25`
 
 ### Indentation - Maintain readability aspect
+<br>
 
 > NOTE* - Good Coding Practices
->  - 1. Descriptive identifiers
->  - 2.  
+>   1. Descriptive identifiers - Give variable names as meaningful naming
+>   2.  Descriptive file names - Give file naming as understand anyone what code inside file.
+>   3. Frequent Comments
+>   4. Indentation
+<br>
+
+
+### Statements -
+- Any line of our code which are executable by code is called `statement`.
+  - E.g. a=b+c, print (hello world)... that are also executable by python that called statements.
+<br>
+
+### Expressions -
+- E.g. 2+4 i.e. `Operand` is 2 -> `Operator`  is + -> `Operand` is 4
+<br>
+
+### Literals - 
+- Literals are values given to a variable.
+- E.g. a = 2 i.e. 2 is `literal`
+- E.g. a = 0b0011 is literal
+
+```python
+# Litertal
+a = 0b0011   # 0b means "Binary code"
+a            # 3
+
+a = 0x123    # 0x means "Hexa decimal code"
+a            # 291
+
+a = 1.5e4    # e means "Exponential"
+a            # 1500.0
+```
+
+
+32 min
+
+- Number value we can gives in any format like binary, decimal.
+- 
