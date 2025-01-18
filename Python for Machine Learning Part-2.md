@@ -175,8 +175,7 @@ a = 1.5e4    # e means "Exponential"
 a            # 1500.0
 ```
 
+- Number value we can gives in any format like binary, decimal.
+
 
 32 min
-
-- Number value we can gives in any format like binary, decimal.
-- 
