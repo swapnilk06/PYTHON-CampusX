@@ -134,10 +134,12 @@ Machine language(Binary language)   `1st introduced`
 - 3] Keywords != identifiers
 - 4] Can't use sepcial characters inside our identifiers.  
 - 5] Can have any length(no restriction on it naming length).
-
 <br>
 
-### Indentation -
+`18-1-25`
 
- 
-20 min
+### Indentation - Maintain readability aspect
+
+> NOTE* - Good Coding Practices
+>  - 1. Descriptive identifiers
+>  - 2.  
