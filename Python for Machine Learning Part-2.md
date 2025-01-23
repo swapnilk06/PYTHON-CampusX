@@ -163,19 +163,72 @@ Machine language(Binary language)   `1st introduced`
 - E.g. a = 2 i.e. 2 is `literal`
 - E.g. a = 0b0011 is literal
 
-```python
+``` python
 # Litertal
 a = 0b0011   # 0b means "Binary code"
 a            # 3
 
 a = 0x123    # 0x means "Hexa decimal code"
 a            # 291
-
-a = 1.5e4    # e means "Exponential"
-a            # 1500.0
 ```
 
-- Number value we can gives in any format like binary, decimal.
+#### Numrical literals
+``` python
+a = 1.5e4    # e means "Exponential"
+a            # 15000.0
+# this are numrical literals we can use instead motation 1.5e4 of 15^10.
+```
+<br>
+
+`24-1-25`
+#### String literals
+``` python
+city = "Pune"
+city        # 'Pune'
+city = 'Pune'
+city        # 'Pune'
+# In python "" or '' are same output.
+```
+- `"" or '' quotes` -> for these single or double quote same functionality programmer also write extra code.
+
+#### Q. Why `"" or '' quotes` in python? Why that comfort any quote which can used?
+- Reasons through E.g.
+``` python
+day = 'It's a rainy day'  # Error - SyntaxError
+
+day = "'It's a rainy day'"  # "It's a rainy day"
+```
+
+#### None literal
+``` python
+x=None      # ___ "it show blank value"
+````
+#### Interview - Q. Why `None` in python?
+- bcz, in python `variable declaration is not present`.
+
+#### Interview - Q. In python its possible variable stored in code without any value?
+- In python `we never declare variable` i.e. we just create & used them.
+``` python
+thor      # Error - NameError: name 'thor' is not defined
+````
+- Whaever we plan to required 10 variable in future using `None`.
+``` python
+thor=None
+thor            # ____ "it show blank value"
+thor="Hero"     # Hero
+````
+
+#### Interview based answer - When I plan project on various senario that point we need variable, that variable stored in code for future used through reasign that we initialize it using `None`.
+<br>
+
+> NOTE :
+> - Every time we thick why any learn?
+<br>
 
 
-32 min
+### Operators - 
+
+
+
+
+39 min
